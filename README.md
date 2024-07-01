@@ -1,6 +1,6 @@
 # Mood Tracker
 ## Description
-With Mood Tracker, enter a mood every day to keep track of your wellness!
+With Mudi, enter a mood every day to keep track of your wellness!
 ## Usage
 ### Website Link
 https://mood-tracker-gp-a6fcbb48bcc3.herokuapp.com/
